@@ -110,3 +110,4 @@ Deixar um espaço livre na borda para não atrapalhar o movimento das abas
 Fechar as abas da caixa com livros
 Verificar se tem mais livros 
 Repetir o processo anterior em outras caixas caso tenha mais livros a serem guardados
+Verificar se todos os livros foram guardados em caixas e finalizar o processo
