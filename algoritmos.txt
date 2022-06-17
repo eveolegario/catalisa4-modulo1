@@ -1,0 +1,112 @@
+Faça um algoritmo para fazer café.
+
+Ir até a cozinha (caminhar de onde estiver)
+Abrir primeira gaveta do armário à direita e baixo da pia na cozinha
+Pegar uma colher de sopa (a maior) dentro da gaveta
+Colocar colher em cima da bancada ao lado do fogão
+Fechar primeira gaveta do armário
+Abril última gaveta do armário à direita e abaixo da pia na cozinha (terceira de cima para baixo)
+Pegar dentro da gaveta um pote transparente com café dentro, um filtro de papel e porta filtro
+Colocar pote transparente com café dentro, filtro de papel e porta filtro em cima da bancada ao lado do fogão
+Fechar terceira gaveta do armário
+Abrir porta do armário ao lado esquerdo das gavetas 
+Pegar chaleira
+Fechar porta do armário ao lado esquerdo das gavetas 
+Posicionar chaleira abaixo da torneira da pia para colocar água
+Abrir torneira e deixar a água preencher o nível dentro da chaleira
+Fechar torneira da pia quando o nível de água dentro da chaleira for atingido
+Levar chaleira com água ao fogão
+Colocar chaleira na chama desejada do fogão
+Ligar chama do fogão apertando o botão indicativo “ligar”
+Deixar a água dentro da chaleira atingir o ponto de ebulição (quando fizer bolhas de água)
+Abril última porta do armário à direita e acima da pia na cozinha
+Pegar uma xícara preta dentro do armário à direita e acima da pia na cozinha
+Colocar xícara em cima da bancada ao lado do fogão e ao lado da colher, pote transparente com café dentro, filtro de papel e porta filtro
+Encaixar porta filtro em cima da xícara com a circunferência maior para cima
+Colocar filtro aberto dentro do porta filtro, alinhando com sua anatomia
+Abrir o pote com café
+Pegar a colher de sopa e colocar parte oval dentro do pote com café
+Encher a colher com café e tirar do pote
+Colocar o pó de café que está na colher dentro do filtro que está na xícara
+Tirar a colher vazia do filtro e colocar dentro da pia da cozinha
+Colocar toda a água quente da chaleira em cima do pó de café dentro do filtro
+Esperar o pó de café filtrar toda a água
+Desacoplar o porta filtro de cima da xícara e colocar dentro da pia
+Tirar o filtro de dentro do porta filtro e jogar juntamente com o resíduo de café no lixo ao lado da pia.
+
+Faça um algoritmo para fritar um ovo.
+
+Ir até a cozinha (caminhar de onde estiver)
+Abrir terceira porta do armário ao lado esquerdo das gavetas
+Pegar frigideira dentro do armário
+Fechar terceira porta do armário ao lado esquerdo das gavetas
+Colocar frigideira na chama desejada do fogão
+Abrir primeira porta do armário ao lado esquerdo das gavetas
+Pegar garrafa com óleo e pote com sal dentro do armário
+Colocar garrafa com óleo e pote com sal em cima da bancada ao lado do fogão
+Levantar a tampa da garrafa com óleo para abrir a tampa
+Pegar a garrafa com óleo e posicionar acima da frigideira
+Inclinar a garrafa com óleo por 1 segundo para despejar o óleo dentro da frigideira
+Fechar a garrafa
+Colocar garrafa com óleo em cima da bancada ao lado do fogão
+Caminhar da bancada até a geladeira a esquerda
+Abrir a porta da geladeira
+Pegar um ovo dentro da geladeira e segurar com uma das mãos 
+Fechar a porta da geladeira com a outra mão
+Caminhar da geladeira até o fogão
+Parar em frente ao fogão
+Ligar chama do fogão onde está a frigideira apertando o botão indicativo “ligar”
+Bater levemente o ovo na quina da bancada ao lado do fogão até a casca do ovo trincar
+Posicionar o ovo acima da frigideira
+Segurar o ovo usando os dois polegares e indicadores das mãos
+Pressionar polegares onde a casca estiver trincada para abrir o ovo
+Despejar suavemente clara e gema do ovo na frigideira
+Jogar casca do ovo no lixo ao lado da bancada
+Segurar o pote com sal com uma das mãos
+Desrosquear a tampa do pote com sal para abrir o mesmo
+Colocar a tampa do pote com sal em cima da bancada
+Com o dedo polegar e indicador da mão livre, pegar uma pitada de sal dentro do pote com sal e tirar de dentro do pote
+Posicionar os dedos com sal acima da frigideira
+Polvilhar o sal com movimentos circulares em cima da clara e gema do ovo dentro da frigideira 
+Pegar uma espátula no pote de vidro em cima da bancada ao lado do fogão
+Aguardar até que a borda da clara esteja dourada
+Posicionar a espátula embaixo da clara do ovo
+Levantar a espátula 
+Girar a espátula para a clara cair invertida na frigideira 
+Desligar chama do fogão onde está a frigideira apertando o botão indicativo “ligar/desligar”
+
+Faça um algoritmo para zerar uma fila de banco.
+
+Não entendi muito bem essa, mas vou tentar fazer :(
+Verificar em sistema quantas senhas foram retiradas para atendimento da sua fila
+Verificar se existe alguma senha prioritária no total de senhas
+Separar em outra fila, se houver, senhas prioritárias para diminuir sua fila
+Analisar em sistema o tipo de serviço no atendimento para cada senha
+Direcionar clientes para resoluções simples via internet ou app
+Direcionar clientes restantes para os tipos de atendimento presencial necessário
+Separar serviços por tempo de resolução
+Dividir a equipe de atendimento presencial em três partes: resoluções rápidas, médias e longas
+Solicitar ajuda de outras pessoas colaboradoras para atendimentos mais longos
+Priorizar o atendimento para os serviços com menor taxa de satisfação ou maior espera.
+Determinar um tempo mínimo e máximo de atendimento
+Verificar se o tempo de atendimento está dentro do estabelecido
+Verificar quantas pessoas ainda estão na fila
+Verificar quantas pessoas estão atendendo
+Finalizar o processo quando a fila estiver sem pessoas para serem atendidas
+
+Faça um algoritmo para guardar livros dentro de uma caixa.
+
+Encontrar uma caixa
+Abrir a abas superiores da caixa
+Verificar se a caixa está vazia
+Passar as mãos nas abas inferiores para sentir se estão presas o suficiente com fita para não abrir após colocar peso
+Levar a caixa vazia o mais próximo possível dos livros
+Colocar a caixa em um local ideal para não forçar a lombar (nem muito alta e nem muito baixa de acordo com sua altura)
+Verificar se a caixa está bem apoiada para não cair após colocar peso
+Pegar um livro grande e medir se ele cabe na caixa
+Colocar o livro maior primeiro dentro da caixa
+Colocar o restante dos livros dentro da caixa em modo de empilhamento do maior para o menor
+Deixar um espaço livre na borda para não atrapalhar o movimento das abas
+Fechar as abas da caixa com livros
+Verificar se tem mais livros 
+Repetir o processo anterior em outras caixas caso tenha mais livros a serem guardados
